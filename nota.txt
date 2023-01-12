@@ -1,0 +1,8 @@
+==========S T R U K P E M B E L I A N==========
+Nama : Yuda Ananda
+Beli : 4Sate Kikil(Rp.120000)
+Beli : 4Es Teh Manis(Rp.20000)
+Tagihan : Rp.140000
+Dibayar : Rp.200000
+Kembalian : Rp.60000
+===============================================
